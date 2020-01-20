@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">포켓베트남</string>
+
+    <string name="admob_app_id">ca-app-pub-3286891742591316~8316515040</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3286891742591316/3273917838</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
